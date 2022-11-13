@@ -1,5 +1,6 @@
 class CompareSignatures:
 
+    # Compare signatures
     @staticmethod
     def compare(signature1, signature2):
         intersection = 0

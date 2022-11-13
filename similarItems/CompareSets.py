@@ -1,5 +1,6 @@
 class CompareSets:
 
+    # Compare sets of shingles
     @staticmethod
     def compare(list1, list2):
         set1 = set(list1)
